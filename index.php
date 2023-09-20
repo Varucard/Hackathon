@@ -57,6 +57,5 @@
 
   <!-- Invoco al igual que con el include al archivo JS para poder utilizarlo -->
   <script src="action.js"></script>
-  
 </body>
 </html>
